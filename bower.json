@@ -1,0 +1,25 @@
+{
+  "name": "Ryggrad",
+  "version": "0.0.1",
+  "homepage": "https://github.com/k2052/BuildingCoffeeScriptFrameworks.src",
+  "authors": [
+    "K-2052 <k@2052.me>"
+  ],
+  "description": "\"A CoffeeScript FrameWork\"",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "sinon": "~1.7.0",
+    "chai": "~1.6.0",
+    "chai-jquery": "~1.1.0",
+    "mocha": "~1.9.0",
+    "sinon-chai": "~2.4.0"
+  }
+}
