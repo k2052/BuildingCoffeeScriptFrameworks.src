@@ -1,0 +1,27 @@
+{
+  "name": "BuildingCoffeeScriptFrameworks.src",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/k2052/BuildingCoffeeScriptFrameworks.src.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k2052/BuildingCoffeeScriptFrameworks.src/issues"
+  },
+  "homepage": "https://github.com/k2052/BuildingCoffeeScriptFrameworks.src",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "coffee-script": "^1.7.1",
+    "grunt": "^0.4.4",
+    "grunt-mocha-test": "^0.10.2",
+    "sinon": "^1.9.1",
+    "sinon-chai": "^2.5.0"
+  }
+}
